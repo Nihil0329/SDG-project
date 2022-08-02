@@ -1,0 +1,2 @@
+E:\unity\virtual button\obj\Debug\UnityEngine.TestRunner.csprojAssemblyReference.cache
+E:\unity\virtual button\obj\Debug\UnityEngine.TestRunner.csproj.CoreCompileInputs.cache
